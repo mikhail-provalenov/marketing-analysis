@@ -19,9 +19,9 @@
 marketing-analysis/
 │
 ├── data/
-│   ├── orders.csv
-│   ├── customers.csv
-│   └── marketing_campaigns.csv
+│   ├── Sample-Superstore.csv
+│   
+│   
 │
 ├── sql_analysis/
 │   ├── 1_basic_metrics.sql
