@@ -29,7 +29,7 @@ marketing-analysis/
 ├── visualizations/
 └── README.md
 
-``
+```
 
 ##  Рекомендации
 - Увеличить бюджет на email-маркетинг на 30%
