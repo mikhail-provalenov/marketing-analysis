@@ -17,18 +17,28 @@
 ##  Структура проекта
 ```
 marketing-analysis/
+│
 ├── data/
 │   ├── orders.csv
 │   ├── customers.csv
 │   └── marketing_campaigns.csv
+│
 ├── sql_analysis/
 │   ├── 1_basic_metrics.sql
 │   ├── 2_campaign_analysis.sql
 │   ├── 3_customer_segmentation.sql
 │   └── 4_recommendations.sql
+│
+├── python_analysis/
+│   ├── analysis.py
+│   └── requirements.txt
+│
 ├── visualizations/
+│   ├── sales_by_month.png
+│   ├── campaign_roi.png
+│   └── customer_segments.png
+│
 └── README.md
-
 ```
 
 ##  Рекомендации
