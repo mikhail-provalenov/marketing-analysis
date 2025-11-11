@@ -1,3 +1,4 @@
+-- 2.Анализ по категориям
 SELECT 
     Category,
     ROUND(SUM(Sales), 2) as category_revenue,
