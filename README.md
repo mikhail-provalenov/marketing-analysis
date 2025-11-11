@@ -30,8 +30,8 @@ marketing-analysis/
 │   └── 4_recommendations.sql
 │
 ├── python_analysis/
-│   ├── analysis.py
-│   └── requirements.txt
+│   ├── analysis.ipynb
+│   
 │
 ├── visualizations/
 │   ├── sales_by_month.png
