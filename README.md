@@ -53,7 +53,7 @@ marketing-analysis/
 └── README.md
 ```
 
-## � Технологии
+##  Технологии
 
 - Python (Pandas, Matplotlib, Seaborn) - анализ и визуализация
 - SQL - примеры аналитических запросов
